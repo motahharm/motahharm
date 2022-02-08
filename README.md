@@ -1,11 +1,12 @@
 # Motahhar Mokfi
-Hi
+Hi everyone
 
-    motahhar = human()
-    
-    motahhar.Abilities = ['Python' , 'Django' , 'Java Script']
-    motahhar.Hobbies = ['Coding' , 'Playing' , 'Tourism']
-    
+I develop with python & JS
+
+```
+const motahhar_mokfi = new Human();
+motahhar_mokfi.entertainments = ['coding', 'MineCraft', 'PlayGames', 'NatureTourism'];
+```
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=motahharm&show_icons=true&theme=radical)
 
