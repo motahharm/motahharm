@@ -1,16 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=047857&height=180&section=header&text=Motahhar%20Mokfi&fontSize=30&fontColor=f0fdf4&fontAlignY=35">
 <hr>
-<p align="center">Hi</p>
+<p align="center">Hello</p>
 
-I like Python & JS<br>
+I'm Motahhar Mokfi and work as a programmer.<br>
+I'm a heroic student too.<br>
 I usually work with 
+<a href="https://vuejs.org/">Vue JS</a>,
+<a href="https://nuxt.com/">Nuxt JS</a>,
+<a href="https://getbootstrap.com/">BootStrap</a>,
+<a href="https://tailwindcss.com/">Tailwind</a>,
+<a href="https://nodejs.org/en/">NodeJS</a>,
 <a href="https://www.djangoproject.com/">Django</a>,
 <a href="https://www.django-rest-framework.org/">DRF</a>,
 <a href="https://www.docker.com/">Docker</a>,
-<a href="https://getbootstrap.com/">BootStrap</a>,
-<a href="https://tailwindcss.com/">Tailwind</a>,
 <a href="https://git-scm.com/">Git</a>,
-<a href="https://nodejs.org/en/">NodeJS</a>,
 HTML, Css, JS<br><br><br>
 
 
@@ -24,6 +27,5 @@ HTML, Css, JS<br><br><br>
 TW90YWhoYXIgTW9rZmkK
 ```
 
-Thanks For Watch😎
-
-See You In My Projects🤩
+See you later (; <br>
+Best wishes ...
